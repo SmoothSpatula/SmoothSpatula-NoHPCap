@@ -2,7 +2,7 @@
 	"name": "NoHPCap",
 	"version_number": "1.0.0",
 	"website_url": "https://github.com/SmoothSpatula/SmoothSpatula-NoHPCap",
-	"description": "Changes the HP cap to 100000000 (from 9999)",
+	"description": "Changes the HP Cap to 100000000 (from 9999).",
 	"dependencies": [
 		"ReturnOfModding-ReturnOfModding-1.0.32"
 	]
